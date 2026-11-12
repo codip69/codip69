@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dip Saha
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Java Scriot
-- 💞️ I’m looking to collaborate on FrontendDev
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on FrontendDev and Data Science
 - 📫 How to reach me email: dipsahamona2002@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
